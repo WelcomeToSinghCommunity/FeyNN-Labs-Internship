@@ -41,4 +41,4 @@ The project explores **electric vehicle market segmentation** by analyzing the s
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/WelcomeToSinghCommunity/FeyNN-Labs-Internship.git
